@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uexplugins>
+      <plugin
+        className="org.zywx.wbpalmstar.plugin.uextimemachine.EUExTimeMachine"
+        uexName="uexTimeMachine" >
+        <method name="open" />
+        <method name="close" />
+        <method name="setJsonData" />
+    </plugin>
+    
+</uexplugins>
